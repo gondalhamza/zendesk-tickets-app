@@ -1,4 +1,4 @@
-# Leafworks Tickets Web Application
+# Zendesk Tickets Web Application
 
 This is a simple web application that displays Zendesk tickets where a user is CC'd. The application is divided into a frontend (React app) and a backend (Node/Express app) component.
 
